@@ -1,0 +1,1 @@
+- With this test, I will check how the pull command works, based on a new modification made by someone from the team.
